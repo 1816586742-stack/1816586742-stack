@@ -1,5 +1,6 @@
 <!--
-  个人主页 README · 为 GitHub 用户 1816586742-stack（盗天是也）定制
+  个人主页 README · 为 GitHub 用户 1816586742-stack（盗天）定制
+  人设关键词：盗天 · 开源 · 贡献爱好者 · 逆向工程师 · 白客 SRC
   说明：关于我不再提及「DeepSeek Harness 轻量级工具开发者」与「主攻语言」；
         保留联系方式与交流合作；「我的项目」为重点突出模块。
   现在只有 B 站、GitHub 是已确认的联系方式；其它平台如需展示，请自行补充链接。
@@ -8,24 +9,42 @@
 
 <div align="center">
 
-<!-- 顶部动态横幅 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,100:22D3EE&text=Hello%2C%20I'm%20%E7%9B%97%E5%A4%A9%E6%98%AF%E4%B9%9F&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5&descAlignY=60&descSize=18&animation=fadeIn" alt="banner" />
+<!-- 顶部赛博横幅：在线地址，单文件即可正常显示，无需额外上传任何图片 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:06010f,45:2a0a4a,100:00182b&text=%E7%9B%97%E5%A4%A9&fontSize=60&fontColor=9be9ff&fontAlignY=37&desc=%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%20%C2%B7%20%E7%99%BD%E5%AE%A2%20SRC%20%C2%B7%20%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E8%80%85&descAlignY=61&descSize=17&descColor=ff6ee7&animation=fadeIn" alt="banner" />
+
+<!-- 进阶（可选·更炸）：把你仓库里的 banner-cyber.svg 一并上传到本仓库根目录后，
+     删掉上面那行、取消下面这行的注释，即可换成「赛博矩阵·代码雨·故障霓虹」动态横幅：
+<img src="./banner-cyber.svg" width="100%" alt="banner" />
+-->
 
 <!-- 打字机动画 -->
 <a href="https://github.com/1816586742-stack">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85;%E6%AC%A2%E8%BF%8E%E4%B8%80%E8%B5%B7%E9%80%A0%E7%82%B9%E5%A5%BD%E7%8E%A9%E7%9A%84;%E8%BD%BB%E9%87%8F%E3%80%81%E5%A5%BD%E7%94%A8%E3%80%81%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85;%E8%B4%A1%E7%8C%AE%E7%88%B1%E5%A5%BD%E8%80%85;%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E5%B8%88;%E7%99%BD%E5%AE%A2%20SRC" alt="Typing SVG" />
 </a>
 
 </div>
+
+<!-- 状态徽章（装 X 用，想删就删） -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-CODING-22D3EE?style=for-the-badge&labelColor=0b1020" alt="status" />
+  <img src="https://img.shields.io/badge/FOCUS-REVERSE_ENGINEERING-6D28D9?style=for-the-badge&labelColor=0b1020" alt="focus" />
+  <img src="https://img.shields.io/badge/SRC-WHITE_HAT-FF3B3B?style=for-the-badge&labelColor=0b1020" alt="src" />
+  <img src="https://img.shields.io/badge/PRINCIPLE-KEEP_HACKING-00C2A8?style=for-the-badge&labelColor=0b1020" alt="principle" />
+</p>
 
 ---
 
 ## 👋 关于我 / About Me
 
-- 💡 专注做 **轻量、好用、开箱即用的工具**
-- 🌱 开源爱好者，乐于把折腾出来的东西分享出去
+- 🧩 **开源 · 贡献爱好者**：乐于把折腾出来的东西开源分享，也爱给喜欢的项目提 PR
+- 🔍 **逆向工程师**：对二进制、协议、客户端逆向与安全研究有浓厚兴趣
+- 🛡️ **白客 SRC**：坚持白帽安全研究，向 SRC 提交漏洞、一起把东西做安全
 - 📺 B 站：[space.bilibili.com/677547867](https://space.bilibili.com/677547867)
 - 📫 交流合作欢迎通过 Issue 或 B 站私信找我
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</div>
 
 ---
 
@@ -91,6 +110,17 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
+
+<!-- 安全 / 逆向工具（呼应「逆向工程师 · 白客 SRC」人设；不需要可整段删除） -->
+<p align="left">
+  <img src="https://img.shields.io/badge/IDA_Pro-6E4AFF?style=for-the-badge" alt="IDA Pro" />
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/x64dbg-2B2B2B?style=for-the-badge" alt="x64dbg" />
+  <img src="https://img.shields.io/badge/Frida-CC0000?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
 ---
