@@ -36,7 +36,7 @@
 ### 🚀 deepseek-launcher
 
 <a href="https://github.com/1816586742-stack/deepseek-launcher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1816586742-stack&repo=deepseek-launcher&theme=tokyonight&hide_border=true&show_owner=true" alt="deepseek-launcher" />
+  <img src="https://img.shields.io/badge/repo-deepseek--launcher-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="deepseek-launcher" />
 </a>
 
 **轻量级 C# WebView2 壳启动器，对标 DSH Desktop 全部核心功能。**
@@ -99,8 +99,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1816586742-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1816586742-stack&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="top langs" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1816586742-stack&theme=tokyonight" alt="profile details" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1816586742-stack&theme=tokyonight" alt="top languages" />
 
 </div>
 
@@ -113,15 +113,7 @@
 ## 📈 贡献曲线 / Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1816586742-stack&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
-</div>
-
----
-
-## 🏆 GitHub 奖杯 / Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1816586742-stack&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+  <img src="https://ghchart.rshah.org/22D3EE/1816586742-stack" width="100%" alt="contribution graph" />
 </div>
 
 ---
